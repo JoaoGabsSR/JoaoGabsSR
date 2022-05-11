@@ -1,6 +1,7 @@
 ## Eai, meu nome é João Gabriel
 
-- 📚 Atualmente estudo front-end(html, css e javascript) e C#
+- 📚 Tenho conhecimentos em C#
+- 📚 Atualmente estudo front-end(html, css e javascript) e dei início ao estudo a ASP.Net Core (.NET 6)
 - 👨🏽‍💻 Tenho interesse em aprender sobre banco de dados
 - 🏫👨🏽‍🎓 Estudo na instituição SENAI
 
@@ -15,6 +16,8 @@
   <img align="center" alt="Joao-HTML" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Joao-CSS" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Joao-JS" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Joao-DOTNET" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  
 </div>
   
 ##
