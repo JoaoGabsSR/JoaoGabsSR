@@ -1,9 +1,9 @@
 ## Eai, meu nome é João Gabriel
 
 - 📚 Tenho conhecimentos em C#
-- 📚 Atualmente estudo front-end(html, css e javascript) e dei início ao estudo a ASP.Net Core (.NET 6)
-- 👨🏽‍💻 Tenho interesse em aprender sobre banco de dados
-- 🏫👨🏽‍🎓 Estudo na instituição SENAI
+- 📚 Atualmente estudo PHP, ASP.Net e Banco de Dados
+- 👨🏽‍💻 Tenho interesse em aprender sobre front-end utilizando Blazor
+- 🏫👨🏽‍🎓 Frequentei à instituição SENAI - CTTI (Centro de Treinamento de Tecnologia e Informação)
 
 <div>
   <a href="https://github.com/JoaoGabsSR">
