@@ -1,8 +1,8 @@
 ## Eai, meu nome é João Gabriel
 
 - 📚 Tenho conhecimentos em C#, MySql, HTML, CSS e Javascript
-- 📚 Atualmente estudo PHP, ASP.Net e Banco de Dados
-- 👨🏽‍💻 Tenho interesse em aprender sobre front-end utilizando Blazor ou Vue
+- 📚 Atualmente estudo .Net e Banco de Dados
+- 👨🏽‍💻 Tenho interesse em aprender sobre front-end utilizando Blazor ou Vue e a aprender a liguagem PHP
 - 🏫👨🏽‍🎓 Frequentei à instituição SENAI - CTTI (Centro de Treinamento de Tecnologia e Informação)
 
 <div>
