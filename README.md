@@ -1,9 +1,9 @@
 ## Eai, meu nome é João Gabriel
 
-- 📚 Tenho conhecimentos em .NET, C#, MySql, HTML, CSS e Javascript
-- 📚 Atualmente estudo Python
-- 👨🏽‍💻 Tenho interesse em aprender sobre a aprender a liguagem PHP
+- 📚 Tenho conhecimentos em .NET, C#, Python, MySql, HTML, CSS e Javascript
+- 👨🏽‍💻 Tenho interesse em aprender sobre Angular
 - 🏫👨🏽‍🎓 Frequentei à instituição SENAI - CTTI (Centro de Treinamento de Tecnologia e Informação)
+- Trabalho na empresa OI S.A.
 
 <div>
   <a href="https://github.com/JoaoGabsSR">
