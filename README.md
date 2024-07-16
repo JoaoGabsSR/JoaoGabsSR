@@ -42,7 +42,7 @@ Nessas aceito toda ajuda possível😅, caso queira me auxiliar me dando alguma 
 ## Algumas experiências(fora da área)
 
 - Oi (menor aprendiz): Assitente administrativo (jul/2021 - fev/2023);
-- Supermercados BH: rRepositor (jun/2021 - jul/2021) (set/2023 - nov/2023);
+- Supermercados BH: Repositor (jun/2021 - jul/2021) (set/2023 - nov/2023);
 
 ## Caso queira me contatar
   
