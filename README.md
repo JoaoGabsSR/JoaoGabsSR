@@ -37,7 +37,7 @@ Nessas aceito toda ajuda possível😅, caso queira me auxiliar me dando alguma 
 ## Algumas experiências(na área)
 
 - 360Hub (PJ): Desenvolvedor fulstack júnior (nov/2023 - jul/2024);
-- Oi (menor aprendiz): Programador visual gráfico (fev/2023 - jun/2024);
+- Oi (menor aprendiz): Programador visual gráfico (fev/2023 - jun/2023);
 
 ## Algumas experiências(fora da área)
 
