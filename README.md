@@ -56,7 +56,7 @@ Nessas aceito toda ajuda possível😅, caso queira me auxiliar me dando alguma 
 ## Um pouco mais sobre mim
 
 <p>
-  Eu tenho 22 anos, e moro na cidade de Sarzedo, também em Minas, comecei a me interessar em programação por causa de videogames, comecei aquerer entender em como os jogos eram desenvolvidos e como eles funcionavam, fui crescendo e comecei a estudar e acabei indo parar na área de desenvolvimento web, curioso não😅, mas mesmo assim ao longo desse caminho vi que realmente gosto de programação como um todo, obviamente ainda quero muito aprender sobre o desenvolvimento de jogos e mods para os mesmos.
+  Eu tenho 22 anos, e moro na cidade de Sarzedo, em Minas, comecei a me interessar em programação por causa de videogames, comecei aquerer entender em como os jogos eram desenvolvidos e como eles funcionavam, fui crescendo e comecei a estudar e acabei indo parar na área de desenvolvimento web, curioso não😅, mas mesmo assim ao longo desse caminho vi que realmente gosto de programação como um todo, obviamente ainda quero muito aprender sobre o desenvolvimento de jogos e mods para os mesmos.
 </p>
 <p>
   Meio que deve ter ficado claro, mas gosto  muito de jogar, tanto que se por ventura ler isso e quiser me adicionar para jogar algo, as principais plataformas onde jogo são <b>Steam(nome de perfil - código de amigo):</b> Kadjima - 1158507483, e <b>Epic:</b> Kadjima. Também gosto bastante de animes e mangas, e alguns gêneros de filmes como terror e alguns de romance.
